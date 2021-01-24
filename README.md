@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=YJJcoolcool&color=7fab11)
 ### Hi there, I'm Yam Jun Jie (a.k.a. YJJcoolcool) 👋
-Check out some of my projects below!
+Welcome to my GitHub page! Some of the projects I've done are listed below.
 
 <hr>
 
