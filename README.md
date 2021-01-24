@@ -1,5 +1,10 @@
-![](https://komarev.com/ghpvc/?username=YJJcoolcool&color=dbb014)
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=YJJcoolcool&color=7fab11)
+### Hi there, I'm Yam Jun Jie (a.k.a. YJJcoolcool) 👋
+Check out some of my projects below!
+
+## About me
+Currently studying in [Republic Polytechnic](https://www.rp.edu.sg/) (Diploma in Infocomm Security Management)
+I have experience in HTML, CSS, JavaScript, Python, and Java.
 
 <!--
 **YJJcoolcool/YJJcoolcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
