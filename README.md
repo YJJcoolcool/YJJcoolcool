@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=YJJcoolcool&color=FFFF00)
+![](https://komarev.com/ghpvc/?username=YJJcoolcool&color=gold)
 ### Hi there 👋
 
 <!--
