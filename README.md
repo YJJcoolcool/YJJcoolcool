@@ -9,7 +9,7 @@ Welcome to my GitHub page! Some of the projects I've done are listed below.
 ## About me
 Currently studying in [Republic Polytechnic](https://www.rp.edu.sg/) (Diploma in Infocomm Security Management)\
 
-<a href="https://www.linkedin.com/in/yam-jun-jie/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="15px"/> Check out my LinkedIn profile to see my certifications and work experience!</a>
+<a href="https://www.linkedin.com/in/yam-jun-jie/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="20px"/> Check out my LinkedIn profile to see my certifications and work experience!</a>
 
 <hr>
 
