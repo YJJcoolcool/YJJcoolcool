@@ -4,8 +4,9 @@ Check out some of my projects below!
 
 ## About me
 Currently studying in [Republic Polytechnic](https://www.rp.edu.sg/) (Diploma in Infocomm Security Management)\
-I have experience in HTML, CSS, JavaScript, Python, and Java.\
-<img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="15px"> <a href="https://www.linkedin.com/in/yam-jun-jie/">Check out my LinkedIn profile to see my certifications and work experience!</a>
+I have experience in HTML, CSS, JavaScript, Python, and Java.
+
+<a href="https://www.linkedin.com/in/yam-jun-jie/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" height="15px"> Check out my LinkedIn profile to see my certifications and work experience!</a>
 
 
 <!--
