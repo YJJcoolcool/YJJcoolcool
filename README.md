@@ -12,6 +12,9 @@ I have experience in HTML, CSS, JavaScript, Python, and Java.
 
 <hr>
 
+## Stats
+[![YJJcoolcool's github stats](https://github-readme-stats.vercel.app/api?username=YJJcoolcool)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **YJJcoolcool/YJJcoolcool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
