@@ -3,6 +3,7 @@
 Check out some of my projects below!
 
 <hr>
+
 ## About me
 Currently studying in [Republic Polytechnic](https://www.rp.edu.sg/) (Diploma in Infocomm Security Management)\
 I have experience in HTML, CSS, JavaScript, Python, and Java.
