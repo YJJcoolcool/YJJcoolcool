@@ -3,6 +3,7 @@
 Welcome to my GitHub page! Some of the projects I've done are listed below.
 
 [![YJJcoolcool's github stats](https://github-readme-stats.vercel.app/api?username=YJJcoolcool)](https://github.com/anuraghazra/github-readme-stats)
+[![YJJcoolcool's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YJJcoolcool&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
